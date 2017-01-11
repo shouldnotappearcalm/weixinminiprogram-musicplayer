@@ -1,0 +1,5 @@
+<button class="button-style" type="primary" bindtap="listenerButtonPlay">播放</button>
+<button class="button-style" type="primary" bindtap="listenerButtonPause">暂停</button>
+<button class="button-style" type="primary" bindtap="listenerButtonSeek">设置播放进度</button>
+<button class="button-style" type="primary" bindtap="listenerButtonStop">停止播放</button>
+<button class="button-style" type="primary" bindtap="listenerButtonGetPlayState">获取播放状态</button>
